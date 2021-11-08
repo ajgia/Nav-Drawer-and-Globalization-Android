@@ -12,8 +12,5 @@
 
     <string name="vision">Empowering People.\nShaping BC.\nInspiring Global Progress.</string>
     <string name="mission">Partnering learners and industry for success through workforce development.</string>
-    <string name="strategic_plan">We are intent on being a people-focused organization that delivers future-proof applied education,
-        amplifying our impact through globally relevant connections.</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strategic_plan">We are intent on being a people-focused organization that delivers future-proof applied education, amplifying our impact through globally relevant connections.</string>
 </resources>
